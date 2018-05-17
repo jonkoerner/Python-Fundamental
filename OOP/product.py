@@ -12,6 +12,7 @@ class (object):
         print 'Fuel: ' , self.Fuel
         print 'Mileage: ' , self.Mileage , 'mpg'
         print 'Tax: ' , self.Tax
+        print 'Tax: ', self.Tax
     
 
 
